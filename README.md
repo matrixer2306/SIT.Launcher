@@ -1,11 +1,11 @@
-﻿# Summary
-
-This Launcher is designed to work with [SPT-AKI](https://dev.sp-tarkov.com/SPT-AKI/Server) & [Stay In Tarkov](https://github.com/paulov-t/SIT.Core)
-
 <div align=center style="text-align: center;">
 <h1> Stay in Tarkov has moved </h1>
 Please use the <a href="https://github.com/stayintarkov/SIT.Launcher">New Repository</a> which is managed by a group of Contributors of the original Stay In Tarkov
 </div>
+
+﻿# Summary
+
+This Launcher is designed to work with [SPT-AKI](https://dev.sp-tarkov.com/SPT-AKI/Server) & [Stay In Tarkov](https://github.com/paulov-t/SIT.Core)
 
 ---
 
